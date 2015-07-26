@@ -14,7 +14,6 @@ Python 2.7+ / Twython
 Go make an app and get some twitter credentials. 
 https://twittercommunity.com/t/how-to-get-my-api-key/7033
 <br><br>
-
 Once you have those, make a folder and save everything to it, make a keys.txt file w/ one cred per line. 
 <br><br>
 run and rando-mute things!
