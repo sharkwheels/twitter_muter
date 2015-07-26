@@ -67,7 +67,7 @@ def muteUsers():
 	print "get muted users"
 
 
-	## GET LAREADY MUTED FOLLOWERS ##################
+	## GET ALREADY MUTED FOLLOWERS ##################
 
 	while(butts_cursor):
 		get_muted = twitter.list_mutes(screen_name=username, count=200, cursor=butts_cursor)
